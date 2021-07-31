@@ -1,0 +1,13 @@
+.home {
+    .bot-status{
+    background: rgb(218, 4, 4);
+    height: 30px;
+    border-radius: 14px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .like-btn-container {
+      float: right;
+    }
+}
